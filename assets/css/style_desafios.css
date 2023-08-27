@@ -1,0 +1,13 @@
+#carretera {
+    background: url('/assets/img/cuidad1.jpeg') no-repeat center bottom;
+    background-size: cover;
+}
+
+
+#auto img {
+    position: absolute;
+left: 5%;
+    max-width: 30rem;
+
+}
+
