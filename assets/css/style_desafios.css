@@ -7,7 +7,21 @@
 #auto img {
     position: absolute;
 left: 5%;
+bottom: 0%;
+max-width: 30rem;
+
+}
+#auto2 img {
+    position: absolute;
+left: 5%;
+bottom: 0%;
+
     max-width: 30rem;
 
 }
 
+button {
+    position: absolute;
+    right: 0%;
+    bottom: 0%;
+}
